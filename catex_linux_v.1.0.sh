@@ -36,11 +36,11 @@ mv *.cdr *.svg *.eps *.ai ./Vector
 
 echo moving compressed files to compressed folder...
 
-mv *.rar *.zip ./compressed
+mv *.rar *.zip *.tar.bz2 *.tar *tar.xz *.flatpakref *tar.gz ./Compressed
 
 echo moving programs installer to programs folder...
 
-mv *.exe *.msi *.deb ./programs
+mv *.exe *.msi *.deb *.appimage ./Programs
 
 echo moving iso files to iso folder...
 mv *.iso ./Iso
