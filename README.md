@@ -8,7 +8,7 @@
 ### - Images, audios, videos, documents, programs, vectors and compressed files.
 ## How to use?
 ### - Download catex in the folder you want to organize and then run it, done! your files have been organized,Catex is avaliable for Linux and Windows. No additional library or content is required.
-#### See the video demostration: 
+#### See the video demostration: https://youtu.be/cRPDiOQPLt4
 ## Comments
 ### - If you have a .pdf vector file it will be moved into the "Documents" folder.
 ## Author
@@ -27,7 +27,7 @@
 ### - Imagens, áudios, vídeos, documentos, programas, vetores e arquivos compactados.
 ## Como usar?
 ### - Baixe o Catex na pasta que deseja organizar e execute-o, pronto! seus arquivos foram organizados, Catex está disponivel para Linux e Windows. Nenhuma biblioteca ou conteúdo adicional é necessário.
-#### Veja a demonstração em vídeo: 
+#### Veja a demonstração em vídeo: https://youtu.be/cRPDiOQPLt4
 ## Observações
 ### - Caso você tenha algum arquivo de vetor em .pdf ele vai ser movido para dentro da pasta "Documentos".
 ## Autor
