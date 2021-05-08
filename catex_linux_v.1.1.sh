@@ -13,10 +13,12 @@ echo creating folders for files.
   mkdir Compressed
   mkdir Programs
   mkdir Iso
+  mkdir Torrents
+  mkdir Fonts
 
 echo moving images files to image folder...
 
-mv *.jpg *.png *.jpeg *.bmp *.tiff *.exif *.jfif *.psd ./Images
+mv *.jpg *.png *.jpeg *.bmp *.tiff *.exif *.jfif *.psd *.webp *.nrw *.cr2 ./Images
 
 echo moving videos files to video folder...
 
@@ -44,5 +46,11 @@ mv *.exe *.msi *.deb *.appimage ./Programs
 
 echo moving iso files to iso folder...
 mv *.iso ./Iso
+
+echo moving torrent files to torrents folder ...
+mv *.torrent ./Torrents
+
+echo moving fonts files to Fonts Folder...
+mv *.otf *.ttf ./Fonts
 
 echo your files have been categorized!.
