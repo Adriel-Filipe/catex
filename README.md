@@ -5,7 +5,7 @@
 ## How it works?
 ### - Catex creates folders for each file category and then moves them to their respective folders.
 ## What types of files does it organize?
-### - Images, audios, videos, documents, programs, vectors and compressed files.
+### - Images, audios, videos, documents, programs, vectors, compressed files and others files.
 ## How to use?
 ### - Download catex in the folder you want to organize and then run it, done! your files have been organized,Catex is avaliable for Linux and Windows. No additional library or content is required.
 #### See the video demostration: https://youtu.be/cRPDiOQPLt4
@@ -24,7 +24,7 @@
 ## Como funciona?
 ### - Catex cria pastas para cada categoria de arquivo e as move para suas respectivas pastas.
 ## Que tipos de arquivos ele organiza?
-### - Imagens, áudios, vídeos, documentos, programas, vetores e arquivos compactados.
+### - Imagens, áudios, vídeos, documentos, programas, vetores , arquivos compactados e outros diversos tipos de arquivos.
 ## Como usar?
 ### - Baixe o Catex na pasta que deseja organizar e execute-o, pronto! seus arquivos foram organizados, Catex está disponivel para Linux e Windows. Nenhuma biblioteca ou conteúdo adicional é necessário.
 #### Veja a demonstração em vídeo: https://youtu.be/cRPDiOQPLt4
